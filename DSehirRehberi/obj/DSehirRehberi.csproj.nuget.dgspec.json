@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
+        "projectName": "DBussiness",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
+        "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\unive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj",
+        "projectName": "DCore",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj",
+        "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\unive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
+        "projectName": "DDataAccess",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
+        "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\unive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj",
+        "projectName": "DEntities",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj",
+        "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\unive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
+        "projectName": "DSehirRehberi",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
+        "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\unive\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
+              },
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

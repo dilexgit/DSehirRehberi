@@ -1,0 +1,10 @@
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\bin\Debug\netcoreapp3.1\DCore.deps.json
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\bin\Debug\netcoreapp3.1\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\bin\Debug\netcoreapp3.1\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.AssemblyInfoInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.AssemblyInfo.cs
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.csproj.CoreCompileInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\.net Eğitim\DSehirRehberi\DCore\obj\Debug\netcoreapp3.1\DCore.csproj.AssemblyReference.cache
