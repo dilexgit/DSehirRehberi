@@ -1,0 +1,12 @@
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\bin\Debug\net7.0\DCore.deps.json
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\bin\Debug\net7.0\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\bin\Debug\net7.0\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.csproj.AssemblyReference.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.AssemblyInfoInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.AssemblyInfo.cs
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.csproj.CoreCompileInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\refint\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DCore\obj\Debug\net7.0\ref\DCore.dll

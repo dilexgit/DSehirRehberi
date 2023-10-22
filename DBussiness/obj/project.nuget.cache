@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRBdRkse7tH2NEGd5OMYnpiJEaAskC6w+UqPq+rElTDBNcqje4Fc19EOnw711bOnXyKgiF+wO2Zl67I03KT8KQ==",
+  "dgSpecHash": "BvlGjcWkHUblFoQNflqODiV5jjSvRgEiOLf+WjJaz3Iiq3zoovYor5lVZKRwTgd19RjChTD+A+DKwQ1wVXxojw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
+  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unive\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\unive\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

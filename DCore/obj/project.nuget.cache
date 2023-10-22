@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QLmjporbjwAFSmVxZrha7ToWEGuLofKeGlm0zp0RVJb9KDvtOMzMyzfHWUyHp17JJ0TvrvgOmKrTdKpVzrTcSA==",
+  "dgSpecHash": "HD5+YoKLCw+9vetguToZmp8Zrg4zlobBOcz1Gc26NuyYbUr9SWcB/HbIkHNRKHBfGr0EjUI9jbYIt9668EVGAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj",
+  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unive\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\unive\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -14,6 +14,7 @@ namespace DSehirRehberi
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            //yorum
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

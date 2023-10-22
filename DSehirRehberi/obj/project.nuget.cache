@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4gNCpKLitNEIrGXVb00hFD/g8ZWtDR1u7EJmhIqNKIZKTgHsH9xWMYYz4pfGNomR1yMaKyV8wJ9M27dpDHYhg==",
+  "dgSpecHash": "bQuvY3pMn6UKS1QLOk1Mt2XMvdtk0YPaWUJP9k5rTUjyTHX1utDwwm1niVkVRkezgOPNets2wyqbKbCHZt/A/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
+  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unive\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\unive\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

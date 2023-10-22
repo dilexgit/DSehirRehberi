@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fnxoepoa0LPBHLUwF343x7Fsfj+TcNPboI8wLDNvVPAWhtVQWt8Lqh4g3OerrlP9Ob123o/6+6+Wy/5LzujpNA==",
+  "dgSpecHash": "7IL0+nkhNIeh45RJMPjZ4m9gS071NwlGZ4PME/VgD3piE9TZJYk+V0A+U4TJ41k2S7Up5KdRZCLz1Hkp2KW/lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unive\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\unive\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

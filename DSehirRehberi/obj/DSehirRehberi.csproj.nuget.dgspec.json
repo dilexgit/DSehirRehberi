@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {}
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
         "projectName": "DBussiness",
-        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj",
         "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\obj\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,14 +31,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj",
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj",
         "projectName": "DCore",
-        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj",
         "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\obj\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
         "projectName": "DDataAccess",
-        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj",
         "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -163,11 +163,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj",
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj",
         "projectName": "DEntities",
-        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj",
         "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\obj\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -238,8 +238,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj"
               }
             }
           }
@@ -273,14 +273,14 @@
         }
       }
     },
-    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {
+    "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
+        "projectUniqueName": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
         "projectName": "DSehirRehberi",
-        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
+        "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\DSehirRehberi.csproj",
         "packagesPath": "C:\\Users\\unive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DSehirRehberi\\obj\\",
+        "outputPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DSehirRehberi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -300,17 +300,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DBussiness\\DBussiness.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DBussiness\\DBussiness.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DCore\\DCore.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DCore\\DCore.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DDataAccess\\DDataAccess.csproj"
               },
-              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj": {
-                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj"
+              "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj": {
+                "projectPath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj"
               }
             }
           }

@@ -1,0 +1,17 @@
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DDataAccess.deps.json
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DDataAccess.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DDataAccess.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DEntities.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\bin\Debug\net7.0\DEntities.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.csproj.AssemblyReference.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.AssemblyInfoInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.AssemblyInfo.cs
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.csproj.CopyComplete
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\refint\DDataAccess.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\DDataAccess.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DDataAccess\obj\Debug\net7.0\ref\DDataAccess.dll

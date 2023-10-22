@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WFIKvUM3Fxjds4iy2lwxZqb1iuk4KF0AfkU+puN7E3dOUk7TCwA7sw9dzUuph+J2CJZIycuxV4MEzn7BbqWlxA==",
+  "dgSpecHash": "luqITBJI+RUJ0bponymhJohti4DbvgxLmlFw2ijVJEsCZ3zx2RzA0RE/zGaqNlJmq0Myi6LRMVsgbQLEZYefUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\.net Eğitim\\DSehirRehberi\\DEntities\\DEntities.csproj",
+  "projectFilePath": "C:\\Users\\unive\\OneDrive\\Masaüstü\\dilek\\github\\DSehirRehberi\\DEntities\\DEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\unive\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\unive\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

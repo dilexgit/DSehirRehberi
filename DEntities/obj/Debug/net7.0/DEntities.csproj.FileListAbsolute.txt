@@ -1,0 +1,15 @@
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\bin\Debug\net7.0\DEntities.deps.json
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\bin\Debug\net7.0\DEntities.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\bin\Debug\net7.0\DEntities.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\bin\Debug\net7.0\DCore.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\bin\Debug\net7.0\DCore.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.csproj.AssemblyReference.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.AssemblyInfoInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.AssemblyInfo.cs
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.csproj.CoreCompileInputs.cache
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.csproj.CopyComplete
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\refint\DEntities.dll
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\DEntities.pdb
+C:\Users\unive\OneDrive\Masaüstü\dilek\github\DSehirRehberi\DEntities\obj\Debug\net7.0\ref\DEntities.dll
